@@ -18,11 +18,11 @@ CREATE TABLE `slaves` (
 ) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 INSERT INTO `slaves` (`id`, `firstname`, `lastname`) VALUES
-(1,	'Regaip',	'Erylmaz'),
+(1,	'Regaip',	'Eryilmaz'),
 (2,	'Gültekin',	'Gönen'),
 (3,	'Christophe',	'Kadjo'),
 (4,	'Donnel',	'Nkurunziza'),
 (5,	'Linh',	'Nguyen'),
 (6,	'Shahzad',	'Rahman');
 
--- 2021-10-22 15:09:49
+-- 2021-10-22 16:10:56
